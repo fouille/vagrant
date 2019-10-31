@@ -11,7 +11,7 @@ Here's a simple Vagrantfile and script to start a Wazo Platform.
 
 ## Get started
 
-In a terminal
+In a terminal :
 
 ```bash
 vagrant plugin install vagrant-hostmanager
